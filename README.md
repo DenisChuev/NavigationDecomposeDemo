@@ -1,3 +1,6 @@
+Navigation with decompose by this video-tutorial:
+https://youtu.be/g4XSWQ7QT8g?si=gYd4_kqeU_lIiQyP
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
